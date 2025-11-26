@@ -1,0 +1,11 @@
+patient_id,age,sex,weight_kg,height_cm,bmi,smoker,diabetic,cholesterol,total_visits
+1,45,M,82,178,25.9,no,no,198,4
+2,52,F,70,165,25.7,yes,yes,240,8
+3,37,M,90,180,27.8,no,no,210,2
+4,60,M,78,172,26.4,yes,yes,260,10
+5,29,F,55,160,21.5,no,no,170,1
+6,48,F,95,170,32.9,yes,no,300,5
+7,56,M,110,175,35.9,yes,yes,320,12
+8,39,F,68,162,25.9,no,no,190,3
+9,41,M,75,180,23.1,no,no,205,4
+10,50,F,85,168,30.1,yes,no,260,6
